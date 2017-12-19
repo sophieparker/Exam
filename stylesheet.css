@@ -1,0 +1,160 @@
+body {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    background-color: #f7f8f9;
+
+}
+
+.nav a {
+    color: #5a5a5a;
+    font-size: 18px;
+    padding: 20px;
+    text-transform: uppercase;
+
+}
+
+
+.nav li {
+    display:inline-block;
+    padding: 20px;
+
+}
+
+
+#title{
+    font-family: 'Allerta Stencil';
+    padding: 5px;
+    width: 100%;
+    height: auto;
+    text-shadow: 1px 1px grey;
+    font-size: 250px;
+    color: #dee9ed;
+    text-align: center;
+    margin-top: 100px;
+    text-shadow: 4px 4px 4px #000000; 
+}
+
+#loginform {
+    padding: 20px;
+    border: 1px solid #5a5a5a;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#adduserform {
+    padding: 20px;
+    border: 1px solid #5a5a5a;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    padding: 5px;
+}
+
+.gallery:hover {
+    border: 1px solid #777;
+}
+
+.gallery img {
+    width: auto;
+    height: 200px;
+    padding: 5px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.btn {
+    margin-left: auto;
+    margin-right: auto;
+    position: inherit;
+    padding: 5px;
+}
+
+#homepage {
+    width: 50px;
+    height: 50px;
+    float: left;
+    padding: 10px;
+}
+
+#logoutpic {
+    width: 70px;
+    height: 70px;
+    float: right;
+    padding: 10px;
+}
+
+#eatwell {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    float: left;
+}
+
+#map {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    display: block;
+    height: 500px;
+    width: auto;
+}
+
+#info {
+    border: 3px dotted black;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 20px;
+
+}
+
+#newuser {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+#index {
+    background-image: url(food.jpg);
+    width: cover;
+}
+
+#new {
+    padding: 20px;
+    border: 1px solid #5a5a5a;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.in {
+     padding: 20px;
+}
+
+#value {
+    padding: 20px;
+    font-size: 12px;
+    color: #5a5a5a;
+    text-align: center;
+    width: 100%;
+}
+
+#pricerange {
+    color: #5a5a5a;
+    text-shadow: 0.5px 0.5px black;
+    padding: 20px;
+}
